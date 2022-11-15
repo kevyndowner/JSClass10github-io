@@ -36,6 +36,17 @@
         "candy sprinkles"
       ],
       "image": "strawberry-sprinkle.svg"
+    },
+    {
+      "name": "Lemon Lime",
+      "calories": 325,
+      "type": "sorbet",
+      "ingredients": [
+        "fresh squeezed lemons",
+        "lime purée",
+        "candy dots"
+      ],
+      "image": "ice-cream-xtra1.svg"
     }
   ]
 }
