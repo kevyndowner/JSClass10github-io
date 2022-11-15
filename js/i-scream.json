@@ -47,6 +47,17 @@
         "candy dots"
       ],
       "image": "ice-cream-xtra1.svg"
+    },
+    {
+      "name": "Vanilla Chip",
+      "calories": 400,
+      "type": "ice cream",
+      "ingredients": [
+        "vanilla extract",
+        "heavy cream",
+        "milk chocolate chunks"
+      ],
+      "image": "ice-cream-xtra2.svg"
     }
   ]
 }
